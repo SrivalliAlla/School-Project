@@ -1,0 +1,16 @@
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\bin\Debug\fianlProject.exe.config
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\bin\Debug\fianlProject.exe
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\bin\Debug\fianlProject.pdb
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.csproj.AssemblyReference.cache
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.contactPage.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.createAccount.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.homePage.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.inventoryPage.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.Properties.Resources.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.purchasePage.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.returnPage.resources
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.csproj.GenerateResource.cache
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.csproj.CoreCompileInputs.cache
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.exe
+C:\Users\sriva\Desktop\ulv\Spring 23 CMPS 480 Distributed Internet Computing\CMPS480finalProject-master\fianlProject\obj\Debug\fianlProject.pdb
